@@ -135,8 +135,85 @@ function toggleDetails(item) {
 }
 </script>
 
-
 ## Projects
+
+<div class="timeline">
+
+  <div class="timeline-item" onclick="toggleDetails(this)">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/data-vis.png" alt="Data Vis Logo" class="timeline-logo" />
+      <div>
+        <h3>Environmental Impacts of Agriculture</h3>
+        <p><strong>Data Visualization Project</strong><br>Spring 2025</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li><a href="https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/" target="_blank">Interactive visualization</a> of agricultural emissions and land use</li>
+        <li>Used D3.js and JavaScript to present global food production and environmental metrics</li>
+        <li>Collaborated in a team to explore and communicate sustainability data effectively</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item" onclick="toggleDetails(this)">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/treehuggers.png" alt="Treehuggers Logo" class="timeline-logo" />
+      <div>
+        <h3>Urban Treehuggers</h3>
+        <p><strong>Machine Learning for Urban Ecology</strong><br>Spring 2024</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Applied ML models to analyze the relationship between tree coverage and air quality in urban areas</li>
+        <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a> available</li>
+        <li>Used scikit-learn, pandas, and geospatial datasets to derive insights and correlations</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item" onclick="toggleDetails(this)">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/realestate.png" alt="Real Estate Logo" class="timeline-logo" />
+      <div>
+        <h3>Real Estate Price Prediction</h3>
+        <p><strong>Machine Learning Application</strong><br>Fall 2023</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li><a href="https://github.com/sliu750/ML4641-Team-Project" target="_blank">GitHub repo</a></li>
+        <li>Built regression models (XGBoost, Random Forest) to predict property prices</li>
+        <li>Engineered features from geographic, economic, and housing data sources</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item" onclick="toggleDetails(this)">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <img src="assets/logos/fintext.png" alt="Financial Text Logo" class="timeline-logo" />
+      <div>
+        <h3>Financial Text Analysis</h3>
+        <p><strong>NLP Streamlit App</strong><br>Fall 2023</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Developed a <a href="https://fintech-assignment.streamlit.app/" target="_blank">Streamlit application</a> to summarize financial news using NLP</li>
+        <li>Used HuggingFace Transformers and spaCy for summarization and entity recognition</li>
+        <li>Enabled dynamic analysis of user-input financial articles and SEC filings</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+## Projects (delete later)
 Check out my academic and personal projects.
 
 [Data Visualization- Environmental Impacts of Agriculture](https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/)
