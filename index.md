@@ -142,7 +142,7 @@ function toggleDetails(item) {
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="assets/logos/data-vis.png" alt="Data Vis Logo" class="timeline-logo" />
+      <img src="assets/images/agriculture.jpg" alt="Data Vis Logo" class="timeline-logo" />
       <div>
         <h3>Environmental Impacts of Agriculture</h3>
         <p><strong>Data Visualization Project</strong><br>Spring 2025</p>
