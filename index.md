@@ -150,9 +150,9 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li><a href="https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/" target="_blank">Interactive visualization</a> of agricultural emissions and land use</li>
-        <li>Used D3.js and JavaScript to present global food production and environmental metrics</li>
-        <li>Collaborated in a team to explore and communicate sustainability data effectively</li>
+        <li>Created <a href="https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/" target="_blank">interactive visualization</a> of how agriculture impacts greenhouse gas emissions, biodiversity, and energy and water consumption</li>
+        <li>Produced interactive visualizations with Tableau, showcasing trends across the world over the years</li>
+        <li>Highlighted main agricultural contributors of environmental challenges, comparing the losses to the outputs</li>
       </ul>
     </div>
   </div>
