@@ -160,7 +160,7 @@ function toggleDetails(item) {
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="assets/logos/treehuggers.png" alt="Treehuggers Logo" class="timeline-logo" />
+      <img src="assets/images/urban_forest.jpg.png" alt="Treehuggers Logo" class="timeline-logo" />
       <div>
         <h3>Urban Treehuggers</h3>
         <p><strong>Machine Learning for Urban Ecology</strong><br>Spring 2024</p>
