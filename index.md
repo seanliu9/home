@@ -149,7 +149,7 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Created <a href="https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/" target="_blank">interactive visualization</a> of how agriculture impacts greenhouse gas emissions, biodiversity, and energy and water consumption</li>
+        <li>Created <a href="https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/" target="_blank">interactive visualizations</a> of how agriculture impacts greenhouse gas emissions, biodiversity, and energy and water consumption</li>
         <li>Produced interactive visualizations with Tableau, showcasing trends across the world over the years</li>
         <li>Highlighted main agricultural contributors of environmental challenges, comparing the losses to the outputs</li>
       </ul>
@@ -166,9 +166,9 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Applied ML models to analyze the relationship between tree coverage and air quality in urban areas</li>
+        <li>Applied machine learning models (e.g. random forest and gradient boosting classifiers and regressors) and deep learning models (e.g. neural networks) to predict the health of urban trees and their impact on public health, particularly in Los Angeles</li>
+        <li>Created interactive visualizations displaying the health and diversity of trees around the United States</li>
         <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a> available</li>
-        <li>Used scikit-learn, pandas, and geospatial datasets to derive insights and correlations</li>
       </ul>
     </div>
   </div>
