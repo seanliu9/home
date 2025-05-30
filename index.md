@@ -145,7 +145,6 @@ function toggleDetails(item) {
       <img src="assets/images/agriculture.jpg" alt="Data Vis Logo" class="timeline-logo" />
       <div>
         <h3>Environmental Impacts of Agriculture</h3>
-        <p><strong>Data Visualization Project</strong><br>Spring 2025</p>
       </div>
     </div>
     <div class="timeline-details">
@@ -162,8 +161,7 @@ function toggleDetails(item) {
     <div class="timeline-content">
       <img src="assets/images/urban_forest.jpg" alt="Treehuggers Logo" class="timeline-logo" />
       <div>
-        <h3>Urban Treehuggers</h3>
-        <p><strong>Machine Learning for Urban Ecology</strong><br>Spring 2024</p>
+        <h3>Machine Learning Powered Analysis of Urban Forests</h3>
       </div>
     </div>
     <div class="timeline-details">
@@ -180,8 +178,7 @@ function toggleDetails(item) {
     <div class="timeline-content">
       <img src="assets/images/realestate.jpg" alt="Real Estate Logo" class="timeline-logo" />
       <div>
-        <h3>Real Estate Price Prediction</h3>
-        <p><strong>Machine Learning Application</strong><br>Fall 2023</p>
+        <h3>Data Science for Real Estate</h3>
       </div>
     </div>
     <div class="timeline-details">
@@ -198,7 +195,7 @@ function toggleDetails(item) {
     <div class="timeline-content">
       <img src="assets/images/stocks.jpg" alt="Financial Text Logo" class="timeline-logo" />
       <div>
-        <h3>Financial Text Analysis</h3>
+        <h3>Stock Prediction from Financial Texts with NLP</h3>
         <p><strong>NLP Streamlit App</strong><br>Fall 2023</p>
       </div>
     </div>
