@@ -269,4 +269,8 @@ In my free time, I like to exercise, cook new recipes, and learn about breakthro
   color: #333;
   font-size: 0.9rem;
 }
+
+.site-header .wrapper > p {
+    display: none;
+  }
 </style>
