@@ -88,7 +88,7 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="assets/logos/alphamodels.jpg" alt="Alpha Models Logo" class="timeline-logo" />
+      <img src="assets/logos/alphamodels.png" alt="Alpha Models Logo" class="timeline-logo" />
       <div>
         <h3>Alpha Models Inc.</h3>
         <p><strong>Software Engineering Intern</strong><br>May 2023 – August 2023</p>
@@ -105,7 +105,7 @@ I am Sean Liu, a M.S. computer science student at Georgia Tech, set to graduate 
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="assets/logos/alphamodels.jpg" alt="Alpha Models Logo" class="timeline-logo" />
+      <img src="assets/logos/alphamodels.png" alt="Alpha Models Logo" class="timeline-logo" />
       <div>
         <h3>Alpha Models Inc.</h3>
         <p><strong>Software Engineering Intern</strong><br>May 2022 – August 2022</p>
