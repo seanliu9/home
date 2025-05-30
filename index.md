@@ -178,7 +178,7 @@ function toggleDetails(item) {
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="assets/logos/realestate.png" alt="Real Estate Logo" class="timeline-logo" />
+      <img src="assets/images/realestate.jpg" alt="Real Estate Logo" class="timeline-logo" />
       <div>
         <h3>Real Estate Price Prediction</h3>
         <p><strong>Machine Learning Application</strong><br>Fall 2023</p>
@@ -196,7 +196,7 @@ function toggleDetails(item) {
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="assets/logos/fintext.png" alt="Financial Text Logo" class="timeline-logo" />
+      <img src="assets/images/stocks.jpg" alt="Financial Text Logo" class="timeline-logo" />
       <div>
         <h3>Financial Text Analysis</h3>
         <p><strong>NLP Streamlit App</strong><br>Fall 2023</p>
