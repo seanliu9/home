@@ -317,7 +317,7 @@ In my free time, I like to exercise, cook new recipes, and learn about breakthro
   width: 65px;
   height: 65px;
   object-fit: contain;
-  border-radius: 6px;
+  margin-right: 1rem;
 }
 
 .timeline-content h3 {
