@@ -1,3 +1,6 @@
 theme: minima
 show_excerpts: false
 header_pages: []
+
+title: Sean Liu   # This sets the top-left site title
+author:           # Leave this blank to remove name from top right
