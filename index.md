@@ -212,19 +212,6 @@ function toggleDetails(item) {
 
 </div>
 
-## Projects (delete later)
-Check out my academic and personal projects.
-
-[Data Visualization- Environmental Impacts of Agriculture](https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/)
-
-Urban Treehuggers- ML-powered Analysis of Urban Forests and Air Quality
-- [Check out our poster](team004poster.pdf)  
-- [Project repo](https://github.com/sliu750/CSE-6242-Team-Project)
-
-[Real Estate Analysis with Machine Learning](https://github.com/sliu750/ML4641-Team-Project)
-
-[Financial Text Analysis and Summarization](https://fintech-assignment.streamlit.app/)
-
 ## Skills
 Throughout my courses and self-studying, I have gained proficiency in a variety of programming languages, frameworks, and libraries.
 
