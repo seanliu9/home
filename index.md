@@ -202,9 +202,10 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Developed a <a href="https://fintech-assignment.streamlit.app/" target="_blank">Streamlit application</a> to summarize financial news using NLP</li>
-        <li>Used HuggingFace Transformers and spaCy for summarization and entity recognition</li>
-        <li>Enabled dynamic analysis of user-input financial articles and SEC filings</li>
+        
+        <li>Employed nltk and Python's transformers packages to extract key information from financial reports</li>
+        <li>Classified strongly sentimental sentences as either positive or negative and visualized and predicted such trends over time, providing users with a holistic view of a company's performance from the management's perspective</li>
+        <li>Deployed <a href="https://fintech-assignment.streamlit.app/" target="_blank">web application</a> using Streamlit</li>
       </ul>
     </div>
   </div>
