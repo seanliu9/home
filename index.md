@@ -166,9 +166,9 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Applied machine learning models (e.g. random forest and gradient boosting classifiers and regressors) and deep learning models (e.g. neural networks) to predict the health of urban trees and their impact on public health, particularly in Los Angeles</li>
-        <li>Created interactive visualizations displaying the health and diversity of trees around the United States</li>
-        <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a> available</li>
+        <li>Applied machine learning models (e.g. random forest and gradient boosting classifiers and regressors) and deep learning models (e.g. neural networks) to predict the conditions of urban trees and their impact on public health, particularly in Los Angeles</li>
+        <li>Created interactive visualizations displaying the status and diversity of trees around the United States</li>
+        <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a></li>
       </ul>
     </div>
   </div>
@@ -184,7 +184,7 @@ function toggleDetails(item) {
     <div class="timeline-details">
       <ul>
         <li><a href="https://github.com/sliu750/ML4641-Team-Project" target="_blank">GitHub repo</a></li>
-        <li>Built regression models (XGBoost, Random Forest) to predict property prices</li>
+        <li></li>
         <li>Engineered features from geographic, economic, and housing data sources</li>
       </ul>
     </div>
