@@ -183,9 +183,10 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
+        <li>Implemented supervised machine learning models (decision tree, regression) to predict whether someone should rent a house and to estimate the price of a house based on its characteristics</li>
+        <li>Applied unsupervised methods (clustering) to group houses by similar features, helping sellers determine a suitable price range</li>
         <li><a href="https://github.com/sliu750/ML4641-Team-Project" target="_blank">GitHub repo</a></li>
-        <li></li>
-        <li>Engineered features from geographic, economic, and housing data sources</li>
+        
       </ul>
     </div>
   </div>
