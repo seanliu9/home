@@ -235,8 +235,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 </div>
 
 ## Hobbies
-In my free time, I like to exercise, cook new recipes, and learn about breakthroughs in AI/ML, history, and sciences. I enjoy exploring the city I'm currently in and hanging out with people. Oh, and not to mention that I love reading Calvin and Hobbes and watching episodes of We Bare Bears.
-
+Outside of work and studies, I enjoy hitting the gym, experimenting with new recipes in the kitchen, and diving into the latest breakthroughs in AI/ML, history, and the sciences. I love exploring the city I’m in, spending time with friends, and unwinding with some good entertainment- especially We Bare Bears or Calvin and Hobbes.
 <style>
 .skills-grid {
   display: grid;
