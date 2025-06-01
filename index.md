@@ -149,8 +149,8 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Created <a href="https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/" target="_blank">interactive visualizations</a> of how agriculture impacts greenhouse gas emissions, biodiversity, and energy and water consumption</li>
-        <li>Produced interactive visualizations with Tableau, showcasing trends across the world over the years</li>
+        <li>Created <a href="https://syoon029.github.io/6730-Data-Vis-Team-Project.github.io/" target="_blank">interactive visualizations</a> with Tableau, explaning how agriculture impacts greenhouse gas emissions, biodiversity, and energy and water consumption</li>
+        <li>Produced interactive visualizations with Tableau, displaying trends across the world over the years</li>
         <li>Highlighted main agricultural contributors of environmental challenges, comparing the losses to the outputs</li>
       </ul>
     </div>
