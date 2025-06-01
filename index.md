@@ -22,7 +22,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/schwab.png" alt="Charles Schwab Logo" class="timeline-logo" />
       <div>
         <h3>Charles Schwab</h3>
-        <p><strong>Software Engineering Intern</strong><br>June 2025 – August 2025</p>
+        <p>Software Engineering Intern<br>June 2025 – August 2025</p>
       </div>
     </div>
     <div class="timeline-details">
@@ -38,7 +38,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
       <div>
         <h3>Georgia Tech Financial Services Innovation Lab</h3>
-        <p><strong>Graduate Research Assistant</strong><br>August 2024 – June 2025</p>
+        <p>Graduate Research Assistant<br>August 2024 – June 2025</p>
       </div>
     </div>
     <div class="timeline-details">
@@ -56,7 +56,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
       <div>
         <h3>Georgia Tech Financial Services Innovation Lab</h3>
-        <p><strong>Volunteer Research Assistant</strong><br>May 2024 – August 2024</p>
+        <p>Volunteer Research Assistant<br>May 2024 – August 2024</p>
       </div>
     </div>
     <div class="timeline-details">
@@ -74,7 +74,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/vip.jpg" alt="VIP Logo" class="timeline-logo" />
       <div>
         <h3>Vertically Integrated Project</h3>
-        <p><strong>Researcher</strong><br>August 2022 – December 2023</p>
+        <p>Researcher<br>August 2022 – December 2023</p>
       </div>
     </div>
     <div class="timeline-details">
@@ -92,7 +92,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/alphamodels.png" alt="Alpha Models Logo" class="timeline-logo" />
       <div>
         <h3>Alpha Models Inc.</h3>
-        <p><strong>Software Engineering Intern</strong><br>May 2023 – August 2023</p>
+        <p>Software Engineering Intern<br>May 2023 – August 2023</p>
       </div>
     </div>
     <div class="timeline-details">
@@ -109,7 +109,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/alphamodels.png" alt="Alpha Models Logo" class="timeline-logo" />
       <div>
         <h3>Alpha Models Inc.</h3>
-        <p><strong>Software Engineering Intern</strong><br>May 2022 – August 2022</p>
+        <p>Software Engineering Intern<br>May 2022 – August 2022</p>
       </div>
     </div>
     <div class="timeline-details">
