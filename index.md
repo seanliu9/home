@@ -248,7 +248,7 @@ Outside of work and studies, I enjoy hitting the gym, experimenting with new rec
 .skill {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start; 
   flex-wrap: wrap;
   gap: 10px;
   padding: 8px 10px;
