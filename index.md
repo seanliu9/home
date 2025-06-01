@@ -3,18 +3,10 @@ layout: default
 title: Sean Liu
 ---
 
-<nav class="navbar">
-  <a href="#about">About</a>
-  <a href="#experiences">Experiences</a>
-  <a href="#projects">Projects</a>
-  <a href="#skills">Skills</a>
-  <a href="#hobbies">Hobbies</a>
-</nav>
-
-# Hello World
+## Hello World
 Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to graduate in December 2025, specializing in machine learning. I earned my bachelor’s degree in Computer Science from Georgia Tech in May 2024, with concentrations in artificial intelligence and information internetworks, along with a minor in economics. I’m excited to leverage cutting-edge technology to build innovative, real-world solutions.
 
-## <span id="about">About Me</span>
+## About Me
 [Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/sliu750)
 
 [My Resume](Sean_Liu_Resume_F25.pdf)
