@@ -6,6 +6,7 @@ title: Sean Liu
 ## Hello World
 Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to graduate in December 2025, specializing in machine learning. I earned my bachelor’s degree in Computer Science from Georgia Tech in May 2024, with concentrations in artificial intelligence and information internetworks, along with a minor in economics. I’m excited to leverage cutting-edge technology to build innovative, real-world solutions.
 
+<a id="about"></a>
 ## About Me
 [Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/sliu750)
 
@@ -115,7 +116,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <ul>
         <li>Studied business policies, operational constraints, and government regulations in the railroad transportation industry</li>
         <li>Analyzed industrial transportation data to evaluate economic performance and regulation appliance</li>
-        <li>Created C++ optimization models using graph algorithms to determine the most efficient rail routeS</li>
+        <li>Created C++ optimization models using graph algorithms to determine the most efficient rail routes</li>
       </ul>
     </div>
   </div>
