@@ -1,82 +1,31 @@
-/* Reset */
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+/* Full-width header */
+.header {
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+  padding: 0.5em 1em;
 }
 
-body {
-  font-family: 'Helvetica Neue', sans-serif;
-  line-height: 1.6;
-  background-color: #fdfdfd;
-  color: #333;
-  margin: 0;
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-/* Header */
-header {
-  margin-bottom: 2em;
-  /*border-bottom: 2px solid #eee;
-  padding-bottom: 10px;*/
-}
-
-header h1 {
-  font-size: 2rem;
-  color: #222;
-}
-
-/* Footer */
-footer {
-  margin-top: 4em;
-  font-size: 0.8rem;
-  color: #aaa;
-  text-align: center;
-}
-
-/* Links */
-a {
-  color: #0066cc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Section headings */
-h2 {
-  margin-top: 2em;
-  margin-bottom: 0.5em;
-  color: #111;
-}
-
-/* Paragraphs */
-p {
-  margin: 1em 0;
-}
-
+/* Container inside header spans full width but centers content */
 .header-container {
+  max-width: 1000px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1em;
-  border-bottom: 1px solid #ccc;
 }
 
+/* Site title */
 .site-title {
-  margin: 0;
   font-size: 1.8em;
+  margin: 0;
+  white-space: nowrap;
 }
 
+/* Navigation bar */
 .navbar {
   display: flex;
-  gap: 1.5em; /* This spaces out the nav items more */
+  gap: 2em; /* controls space between links */
+  flex-wrap: wrap;
 }
 
 .navbar a {
@@ -89,3 +38,9 @@ p {
   color: #007acc;
 }
 
+/* Page content */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}

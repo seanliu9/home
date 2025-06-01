@@ -7,25 +7,29 @@
   <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
 </head>
 <body>
-  <header>
-  <div class="header-container">
-    <h1 class="site-title">{{ site.title }}</h1>
-    <nav class="navbar">
-      <a href="#about">About</a>
-      <a href="#experiences">Experiences</a>
-      <a href="#projects">Projects</a>
-      <a href="#skills">Skills</a>
-      <a href="#hobbies">Hobbies</a>
-    </nav>
-  </div>
-</header>
 
-<main class="container">
-  {{ content }}
-</main>
+  <!-- Full-width header -->
+  <header class="header">
+    <div class="header-container">
+      <h1 class="site-title">{{ site.title }}</h1>
+      <nav class="navbar">
+        <a href="#about">About</a>
+        <a href="#experiences">Experiences</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#hobbies">Hobbies</a>
+      </nav>
+    </div>
+  </header>
 
-  <footer>
+  <!-- Content constrained to center -->
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="container">
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
   </footer>
+
 </body>
 </html>
