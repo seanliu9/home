@@ -56,3 +56,32 @@ h2 {
 p {
   margin: 1em 0;
 }
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+  border-bottom: 1px solid #ccc;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.8em;
+}
+
+.navbar {
+  display: flex;
+  gap: 1.5em; /* This spaces out the nav items more */
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: #007acc;
+}
+
