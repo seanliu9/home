@@ -10,16 +10,20 @@ body {
   line-height: 1.6;
   background-color: #fdfdfd;
   color: #333;
-  padding: 20px;
+  margin: 0;
+}
+
+.container {
   max-width: 800px;
-  margin: auto;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 /* Header */
 header {
   margin-bottom: 2em;
-  border-bottom: 2px solid #eee;
-  padding-bottom: 10px;
+  /*border-bottom: 2px solid #eee;
+  padding-bottom: 10px;*/
 }
 
 header h1 {
