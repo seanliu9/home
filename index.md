@@ -191,25 +191,6 @@ function toggleDetails(item) {
       </ul>
     </div>
   </div>
-
-  <div class="timeline-item" onclick="toggleDetails(this)">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <img src="assets/images/stocks.jpg" alt="Financial Text Logo" class="timeline-logo" />
-      <div>
-        <h3>Company Performance Prediction from Financial Texts with NLP</h3>
-      </div>
-    </div>
-    <div class="timeline-details">
-      <ul>
-        
-        <li>Employed nltk and Python's transformers packages to extract key information from Big Tech companies' financial reports</li>
-        <li>Classified strongly sentimental sentences as either positive or negative and visualized and predicted such trends over time, providing users with a holistic view of a company's performance from the management's perspective</li>
-        <li>Deployed <a href="https://fintech-assignment.streamlit.app/" target="_blank">web application</a> using Streamlit</li>
-      </ul>
-    </div>
-  </div>
-
 </div>
 
 ## Skills
