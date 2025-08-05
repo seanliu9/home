@@ -27,7 +27,9 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Model Risk Oversight department</li>
+        <li>Built and enhanced internal tools to streamline AI-driven model risk management workflows, increasing efficiency and ensuring compliance with regulatory standards </li>
+        <li>Developed Python scripts to automate model reporting, including querying SQL databases, computing model performance metrics, summarizing metrics with generative AI, and producing visualizations aligned with industry reporting formats</li>
+        <li>Collaborated across departments to deliver scalable software supporting enterprise-wide model oversight</li>
       </ul>
     </div>
   </div>
