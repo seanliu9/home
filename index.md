@@ -10,7 +10,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
 ## About Me
 [Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/sliu750)
 
-[My Resume](Sean_Liu_Resume_F25.pdf)
+[My Resume](Sean_Liu_Resume.pdf)
 
 ## Experiences
 
