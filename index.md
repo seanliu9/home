@@ -45,9 +45,9 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Create tools leveraging artificial intelligence to support financial and economic decision-making</li>
-        <li>Serve as a liaison between the professor, research staff, and interns, facilitating collaboration and communication</li>
-        <li>Supervise 20 research interns, providing technical guidance in data curation, coding, and model and application development</li>
+        <li>Created tools leveraging artificial intelligence to support financial and economic decision-making</li>
+        <li>Served as a liaison between the professor, research staff, and interns, facilitating collaboration and communication</li>
+        <li>Supervised 20 research interns, providing technical guidance in data curation, coding, and model and application development</li>
       </ul>
     </div>
   </div>
@@ -99,8 +99,9 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Developed a C++ simulation model for railcar shipments using constrained shortest path algorithm</li>
-        <li>Implemented Java algorithms to solve the Vehicle Routing Problem for planning and scheduling freight railroad maintenance</li>
+        <li>Designed and implemented C++ algorithms to detect continuous contact regions in artificial knee joints, supporting biomechanical analysis and joint design optimization</li>
+        <li>Built a C++ simulation model for railcar logistics, applying a constrained shortest path algorithm to optimize shipment routes and improve operational efficiency</li>
+        <li>Developed a C++ solution for the Vehicle Routing Problem to automate the scheduling of freight railroad maintenance, enhancing resource allocation and reducing manual planning effort</li>
       </ul>
     </div>
   </div>
@@ -116,9 +117,9 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Studied business policies, operational constraints, and government regulations in the railroad transportation industry</li>
-        <li>Analyzed industrial transportation data to evaluate economic performance and regulation appliance</li>
-        <li>Created C++ optimization models using graph algorithms to determine the most efficient rail routes</li>
+        <li>Researched business policies, operational constraints, and regulatory frameworks in the railroad transportation industry to inform data-driven decision-making</li>
+        <li>Analyzed industrial transportation data to assess industry performance and evaluate the impact of regulatory compliance</li>
+        <li>Developed C++ optimization models leveraging graph algorithms to identify the most efficient rail routes, supporting cost-effective and compliant logistics planning</li>
       </ul>
     </div>
   </div>
