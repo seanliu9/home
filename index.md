@@ -19,6 +19,24 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
+      <img src="gtcoc.png" alt="GT COC Logo" class="timeline-logo" />
+      <div>
+        <h3>Georgia Tech College of Computing</h3>
+        <p>Graduate Teaching Assistant<br>August 2025 – Present</p>
+      </div>
+    </div>
+    <div class="timeline-details">
+      <ul>
+        <li>Support professors in managing the data and visual analytics (CSE 6242) course with 1,200+ students by developing homework assignments, assisting with grading, and coordinating communication with students</li>
+        <li>Conduct weekly office hours to provide guidance and answer students’ questions, helping students with homework, team projects, and conceptual understanding</li>
+        <li>Mentor students in key data science skills and technologies, including data processing and visualization, big data tools (e.g. AWS, PySpark), and machine learning</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item" onclick="toggleDetails(this)">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
       <img src="assets/logos/schwab.png" alt="Charles Schwab Logo" class="timeline-logo" />
       <div>
         <h3>Charles Schwab</h3>
