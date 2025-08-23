@@ -45,9 +45,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Built and enhanced internal tools to streamline AI-driven model risk management workflows, increasing efficiency and ensuring compliance with regulatory standards </li>
-        <li>Developed Python scripts to automate model reporting, including querying SQL databases, computing model performance metrics, summarizing metrics with generative AI, and producing visualizations aligned with industry reporting formats</li>
-        <li>Collaborated across departments to deliver scalable software supporting enterprise-wide model oversight</li>
+        <li>Built and enhanced internal software to streamline AI-driven model risk management workflows, increasing efficiency and ensuring compliance with regulatory standards</li>
+        <li>Pioneered the process of automated model reporting, writing Python scripts to query SQL databases, compute model performance metrics, summarize metrics with Azure AI, and produce visualizations aligned with industry reporting formats</li>
       </ul>
     </div>
   </div>
@@ -58,32 +57,14 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
       <div>
         <h3>Georgia Tech Financial Services Innovation Lab</h3>
-        <p>Graduate Research Assistant<br>August 2024 – June 2025</p>
+        <p>Research Assistant<br>June 2024 – June 2025</p>
       </div>
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Created tools leveraging artificial intelligence to support financial and economic decision-making</li>
-        <li>Served as a liaison between the professor, research staff, and interns, facilitating collaboration and communication</li>
-        <li>Supervised 20 research interns, providing technical guidance in data curation, coding, and model and application development</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="timeline-item" onclick="toggleDetails(this)">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <img src="assets/logos/fsil.jpg" alt="FSIL Logo" class="timeline-logo" />
-      <div>
-        <h3>Georgia Tech Financial Services Innovation Lab</h3>
-        <p>Volunteer Research Assistant<br>May 2024 – August 2024</p>
-      </div>
-    </div>
-    <div class="timeline-details">
-      <ul>
-        <li>Conducted multidisciplinary research between Georgia Tech's College of Computing and College of Business</li>
-        <li>Analyzed the decision-making and predictive abilities of large language models in financial contexts</li>
-        <li>Wrote Python scripts to aggregate financial data and legislation, contributing to training a financial large language model</li>
+        <li>Promoted to graduate research assistant after initial volunteer role, advancing from researching financial applications of large language models to developing AI-driven tools for financial and economic decision-making</li>
+        <li>Implemented Python-based systems to aggregate financial data and legislation, contributing to model training, and evaluated the predictive and decision-making capabilities of large language models in financial contexts</li>
+        <li>Facilitated collaboration across faculty, staff, and interns, while supervising and mentoring a team of 20 research interns on data curation, coding, and model and application development</li>
       </ul>
     </div>
   </div>
@@ -99,9 +80,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Collaborated on the Autonomous and Connected Transportation (ACT) Driving Simulator, a faculty-led multidisciplinary project</li>
-        <li>Designed innovative transportation solutions, focusing on accessibility and sustainability in smart cities</li>
-        <li>Created machine learning models in Python to detect driver distraction and predict driver behavior from physiological data, achieving over 80% test accuracy and enhancing road safety</li>
+        <li>Contributed to the Autonomous and Connected Transportation (ACT) Driving Simulator, a faculty-led multidisciplinary project that designs accessible, sustainable transportation solutions for smart cities</li>
+        <li>Redesigned and optimized existing machine learning and deep learning models in Python, boosting test accuracies from 60% to over 80% in detecting driver distraction and predicting behavior from physiological data, improving road safety</li>
       </ul>
     </div>
   </div>
@@ -117,27 +97,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Designed and implemented C++ algorithms to detect continuous contact regions in artificial knee joints, supporting biomechanical analysis and joint design optimization</li>
-        <li>Built a C++ simulation model for railcar logistics, applying a constrained shortest path algorithm to optimize shipment routes and improve operational efficiency</li>
+        <li>Implemented a C++ simulation model for railcar logistics, applying a constrained shortest path algorithm to optimize shipment routes and improve operational efficiency</li>
         <li>Developed a C++ solution for the Vehicle Routing Problem to automate the scheduling of freight railroad maintenance, enhancing resource allocation and reducing manual planning effort</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="timeline-item" onclick="toggleDetails(this)">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <img src="assets/logos/alphamodels.png" alt="Alpha Models Logo" class="timeline-logo" />
-      <div>
-        <h3>Alpha Models Inc.</h3>
-        <p>Software Engineering Intern<br>May 2022 – August 2022</p>
-      </div>
-    </div>
-    <div class="timeline-details">
-      <ul>
-        <li>Researched business policies, operational constraints, and regulatory frameworks in the railroad transportation industry to inform data-driven decision-making</li>
-        <li>Analyzed industrial transportation data to assess industry performance and evaluate the impact of regulatory compliance</li>
-        <li>Developed C++ optimization models leveraging graph algorithms to identify the most efficient rail routes, supporting cost-effective and compliant logistics planning</li>
       </ul>
     </div>
   </div>
