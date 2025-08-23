@@ -37,7 +37,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="assets/logos/schwab.png" alt="Charles Schwab Logo" class="timeline-logo" />
+      <img src="assets/logos/gt.png" alt="Charles Schwab Logo" class="timeline-logo" />
       <div>
         <h3>Charles Schwab</h3>
         <p>Software Engineering Intern<br>June 2025 – August 2025</p>
