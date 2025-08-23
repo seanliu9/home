@@ -19,7 +19,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
   <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <img src="gatech.png" alt="GT COC Logo" class="timeline-logo" />
+      <img src="assets/logos/gatech.png" alt="GT COC Logo" class="timeline-logo" />
       <div>
         <h3>Georgia Tech College of Computing</h3>
         <p>Graduate Teaching Assistant<br>August 2025 – Present</p>
