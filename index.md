@@ -199,7 +199,7 @@ Throughout my courses and self-studying, I have gained proficiency in a variety 
 </div>
 
 ## Hobbies
-Outside of work and studies, I enjoy hitting the gym, experimenting with new recipes in the kitchen, and diving into the latest breakthroughs in AI/ML, history, and the sciences. I love exploring the city I’m in, spending time with friends, and unwinding with some good entertainment- especially We Bare Bears or Calvin and Hobbes.
+Outside of work and studies, I enjoy hitting the gym, experimenting with new recipes in the kitchen, and diving into the latest breakthroughs in AI/ML, history, and the sciences. I love exploring the city I’m in, spending time with friends, and unwinding with some good entertainment- especially We Bare Bears or Calvin and Hobbes. Recently I've been learning some Italian on the side as well.
 <style>
 .skills-grid {
   display: grid;
