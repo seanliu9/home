@@ -147,7 +147,7 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Applied machine learning models (e.g. random forest and gradient boosting classifiers and regressors) and deep learning models (e.g. neural networks) to predict the conditions of urban trees and their impact on public health, particularly in Los Angeles</li>
+        <li>Implemented random forest and gradient boosting models to predict the conditions of urban forests and their impact on public health</li>
         <li>Created interactive visualizations displaying the status and diversity of trees around the United States</li>
         <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a></li>
       </ul>
@@ -164,8 +164,8 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Implemented supervised machine learning models (decision tree, regression) to predict whether someone should rent a house and to estimate the price of a house based on its characteristics</li>
-        <li>Applied unsupervised methods (clustering) to group houses by similar features, helping sellers determine a suitable price range</li>
+        <li>Implemented a random forest classifier to decide whether to rent a house and regression models to estimate the price of a house based on its features</li>
+        <li>Applied k-means clustering and Gaussian mixture models to group houses by similar features, enabling similar home recommendations and helping sellers determine a suitable price range</li>
         <li><a href="https://github.com/sliu750/ML4641-Team-Project" target="_blank">GitHub repo</a></li>
         
       </ul>
