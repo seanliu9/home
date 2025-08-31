@@ -27,9 +27,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Support professors in managing the data and visual analytics (CSE 6242) course with 1,200+ students by developing homework assignments, assisting with grading, and coordinating communication with students</li>
-        <li>Conduct weekly office hours to provide guidance and answer students’ questions, helping students with homework, team projects, and conceptual understanding</li>
-        <li>Mentor students in key data science skills and technologies, including data processing and visualization, big data tools (e.g. AWS, PySpark), and machine learning</li>
+        <li>Support professors in delivering the data and visual analytics (CSE 6242) course to 1,200+ students by writing and grading assignments and coordinating communication with students</li>
+        <li>Conduct weekly office hours to provide guidance to students in data science skills and technologies, including data processing and visualization, big data tools, and machine learning</li>
       </ul>
     </div>
   </div>
@@ -45,8 +44,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Built and enhanced internal software to streamline AI-driven model risk management workflows, increasing efficiency and ensuring compliance with regulatory standards</li>
-        <li>Pioneered the process of automated model reporting, writing Python scripts to query SQL databases, compute model performance metrics, summarize metrics with Azure AI, and produce visualizations aligned with industry reporting formats</li>
+        <li>Built internal software to streamline AI-driven risk management workflows, increasing efficiency and ensuring compliance with regulatory standards</li>
+        <li>Created pipeline to automate model reporting, writing Python scripts to query SQL databases, compute model metrics, summarize metrics with Azure AI, and produce visualizations aligned with industry reporting formats</li>
       </ul>
     </div>
   </div>
@@ -62,9 +61,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Promoted to graduate research assistant after initial volunteer role, advancing from researching financial applications of large language models to developing AI-driven tools for financial and economic decision-making</li>
-        <li>Implemented Python-based systems to aggregate financial data and legislation, contributing to model training, and evaluated the predictive and decision-making capabilities of large language models in financial contexts</li>
-        <li>Facilitated collaboration across faculty, staff, and interns, while supervising and mentoring a team of 20 research interns on data curation, coding, and model and application development</li>
+        <li>Designed Python pipeline for aggregating financial texts and training large language models while supervising 20 research interns as graduate research assistant</li>
+        <li>Analyzed the predictive and decision-making abilities of LLMs in financial contexts as volunteer research assistant</li>
       </ul>
     </div>
   </div>
@@ -80,13 +78,13 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Contributed to the Autonomous and Connected Transportation (ACT) Driving Simulator, a faculty-led multidisciplinary project that designs accessible, sustainable transportation solutions for smart cities</li>
-        <li>Redesigned and optimized existing machine learning and deep learning models in Python, boosting test accuracies from 60% to over 80% in detecting driver distraction and predicting behavior from physiological data, improving road safety</li>
+        <li>Contributed to the Autonomous and Connected Transportation Driving Simulator to design emerging transportation solutions for smart cities</li>
+        <li>Optimized existing Python machine learning models that detect distraction and predict behavior from physiological data, boosting test accuracies from 60% to over 80% and improving road safety</li>
       </ul>
     </div>
   </div>
 
-  <div class="timeline-item" onclick="toggleDetails(this)">
+  <!-- <div class="timeline-item" onclick="toggleDetails(this)">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <img src="assets/logos/alphamodels.png" alt="Alpha Models Logo" class="timeline-logo" />
@@ -101,7 +99,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
         <li>Developed a C++ solution for the Vehicle Routing Problem to automate the scheduling of freight railroad maintenance, enhancing resource allocation and reducing manual planning effort</li>
       </ul>
     </div>
-  </div>
+  </div> -->
 
 </div>
 
