@@ -44,8 +44,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Built internal software to streamline AI-driven risk management workflows, increasing efficiency and ensuring compliance with regulatory standards</li>
-        <li>Created pipeline to automate model reporting, writing Python scripts to query SQL databases, compute model metrics, summarize metrics with Azure AI, and produce visualizations aligned with industry reporting formats</li>
+        <li>Built internal software to streamline AI-driven risk management workflows, reducing manual review time by 30% and ensuring regulatory compliance</li>
+        <li>Developed automated pipeline for model reporting by integrating Python, SQL, and Azure AI, improving report generation time from hours to less than 5 minutes, while increasing consistency across 100+ models</li>
       </ul>
     </div>
   </div>
@@ -61,7 +61,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Designed Python pipeline for aggregating financial texts and training large language models while supervising 20 research interns as graduate research assistant</li>
+        <li>Designed Python pipeline to aggregate and process thousands of financial texts and train a large language model, while supervising 20 research interns as graduate research assistant</li>
         <li>Analyzed the predictive and decision-making abilities of LLMs in financial contexts as volunteer research assistant</li>
       </ul>
     </div>
@@ -78,7 +78,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Contributed to the Autonomous and Connected Transportation Driving Simulator to design emerging transportation solutions for smart cities</li>
+        <li>Contributed to the Autonomous and Connected Transportation Driving Simulator project to design emerging transportation solutions for smart cities tested in 100+ simulated scenarios</li>
         <li>Optimized existing Python machine learning models that detect distraction and predict behavior from physiological data, boosting test accuracies from 60% to over 80% and improving road safety</li>
       </ul>
     </div>
