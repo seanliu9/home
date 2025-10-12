@@ -73,7 +73,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/vip.jpg" alt="VIP Logo" class="timeline-logo" />
       <div>
         <h3>Vertically Integrated Project</h3>
-        <p>Researcher<br>August 2022 – December 2023</p>
+        <p>Machine Learning Researcher<br>August 2022 – December 2023</p>
       </div>
     </div>
     <div class="timeline-details">
