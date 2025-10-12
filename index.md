@@ -79,7 +79,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     <div class="timeline-details">
       <ul>
         <li>Contributed to the Autonomous and Connected Transportation Driving Simulator project to design emerging transportation solutions for smart cities tested in 100+ simulated scenarios</li>
-        <li>Optimized existing Python machine learning models that detect distraction and predict behavior from physiological data, boosting test accuracies from 60% to over 80% and improving road safety</li>
+        <li>Optimized Python machine learning and deep learning models that detect distraction and predict behavior from physiological data, boosting test accuracies from 60% to over 80% and improving road safety</li>
       </ul>
     </div>
   </div>
@@ -147,7 +147,7 @@ function toggleDetails(item) {
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Implemented random forest and gradient boosting models to predict the conditions of urban forests and their impact on public health</li>
+        <li>Implemented random forest, gradient boosting, and neural network models to predict the conditions of urban forests and their impact on public health</li>
         <li>Created interactive visualizations displaying the status and diversity of trees around the United States</li>
         <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a></li>
       </ul>
