@@ -61,7 +61,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Designed Python pipeline to aggregate and process thousands of financial texts and train a large language model, while supervising 20 research interns as graduate research assistant</li>
+        <li>Created Python pipeline to aggregate and process thousands of financial texts for large language model training and evaluation, while supervising 20 research interns as graduate research assistant</li>
         <li>Analyzed the predictive and decision-making abilities of LLMs in financial contexts as volunteer research assistant</li>
       </ul>
     </div>
