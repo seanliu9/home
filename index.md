@@ -27,8 +27,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Support professors in delivering the data and visual analytics (CSE 6242) course to 1,200+ students by writing and grading assignments and coordinating communication with students</li>
-        <li>Conduct weekly office hours to provide guidance to students in data science skills and technologies, including data processing and visualization, big data tools, and machine learning</li>
+        <li>Support professors in delivering the data and visual analytics (CSE 6242) course to 1,200+ students by writing and grading assignments, assisting students with group projects, and coordinating course-wide communications</li>
+        <li>Conduct weekly office hours to provide guidance to students in data science skills and technologies, including data cleaning and visualization, big data tools, and machine learning</li>
       </ul>
     </div>
   </div>
@@ -45,7 +45,7 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     <div class="timeline-details">
       <ul>
         <li>Built internal software to streamline AI-driven risk management workflows, reducing manual review time by 30% and ensuring regulatory compliance</li>
-        <li>Developed automated pipeline for model reporting by integrating Python, SQL, and Azure AI, improving report generation time from hours to less than 5 minutes, while increasing consistency across 100+ models</li>
+        <li>Developed an automated model reporting pipeline with a Python, SQL, and Azure AI back end and Angular front end, cutting report generation time from hours to under 5 minutes and standardizing outputs across 100+ models</li>
       </ul>
     </div>
   </div>
@@ -61,8 +61,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Created Python pipeline to aggregate and process thousands of financial texts for large language model training and evaluation, while supervising 20 research interns as graduate research assistant</li>
-        <li>Analyzed the predictive and decision-making abilities of LLMs in financial contexts as volunteer research assistant</li>
+        <li>Created Python pipeline to aggregate and process thousands of financial texts for fine-tuning and evaluating billion-parameter large language models, while supervising 20 research interns</li>
+        <li>Evaluated the predictive and decision-making performance of LLMs in financial reasoning through quantitative benchmarking, prompt engineering, and assessing alignment with human expert judgments</li>
       </ul>
     </div>
   </div>
@@ -78,8 +78,8 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Contributed to the Autonomous and Connected Transportation Driving Simulator project to design emerging transportation solutions for smart cities tested in 100+ simulated scenarios</li>
-        <li>Optimized Python machine learning and deep learning models that detect distraction and predict behavior from physiological data, boosting test accuracies from 60% to over 80% and improving road safety</li>
+        <li>Contributed to the Autonomous and Connected Transportation Driving Simulator project to design emerging smart city transportation solutions tested in 100+ simulated scenarios</li>
+        <li>Optimized Python machine learning and deep learning models for detecting driver distraction and predicting behavior from physiological data, boosting test accuracies from 60% to over 80% and improving road safety</li>
       </ul>
     </div>
   </div>
