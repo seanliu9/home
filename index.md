@@ -149,7 +149,7 @@ function toggleDetails(item) {
       <ul>
         <li>Implemented random forest, gradient boosting, and neural network models to predict the conditions of urban forests and their impact on public health</li>
         <li>Created interactive visualizations displaying the status and diversity of trees around the United States</li>
-        <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a></li>
+        <!-- <li><a href="team004poster.pdf" target="_blank">Poster</a> and <a href="https://github.com/sliu750/CSE-6242-Team-Project" target="_blank">GitHub repo</a></li> -->
       </ul>
     </div>
   </div>
@@ -166,7 +166,7 @@ function toggleDetails(item) {
       <ul>
         <li>Implemented a random forest classifier to decide whether to rent a house and regression models to estimate the price of a house based on its features</li>
         <li>Applied k-means clustering and Gaussian mixture models to group houses by similar features, enabling similar home recommendations and helping sellers determine a suitable price range</li>
-        <li><a href="https://github.com/sliu750/ML4641-Team-Project" target="_blank">GitHub repo</a></li>
+        <!-- <li><a href="https://github.com/sliu750/ML4641-Team-Project" target="_blank">GitHub repo</a></li> -->
         
       </ul>
     </div>
