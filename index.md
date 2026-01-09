@@ -4,7 +4,7 @@ title: Sean Liu
 ---
 
 ## Hello World
-Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to graduate in December 2025, specializing in machine learning. I earned my bachelor’s degree in Computer Science from Georgia Tech in May 2024, with concentrations in artificial intelligence and information internetworks, along with a minor in economics. I’m excited to leverage cutting-edge technology to build innovative, real-world solutions.
+Hi, I’m Sean! I graduated from Georgia Tech, earning my master's degree in Computer Science in December 2025, specializing in machine learning. I earned my bachelor’s degree in Computer Science from Georgia Tech in May 2024, with concentrations in artificial intelligence and information internetworks, along with a minor in economics. I’m excited to leverage cutting-edge technology to build innovative, real-world solutions.
 
 <a id="about"></a>
 ## About Me
@@ -22,13 +22,12 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
       <img src="assets/logos/gatech.png" alt="GT COC Logo" class="timeline-logo" />
       <div>
         <h3>Georgia Tech College of Computing</h3>
-        <p>Graduate Teaching Assistant<br>August 2025 – Present</p>
+        <p>Graduate Teaching Assistant<br>August 2025 – December 2025</p>
       </div>
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Support professors in delivering the data and visual analytics (CSE 6242) course to 1,200+ students by writing and grading assignments, assisting students with group projects, and coordinating course-wide communications</li>
-        <li>Conduct weekly office hours to provide guidance to students in data science skills and technologies, including data cleaning and visualization, big data tools, and machine learning</li>
+        <li>Supported delivery of data and visual analytics (CSE 6242) course to 1,200+ students by designing and grading assignments, mentoring project teams, and conducting weekly office hours</li>
       </ul>
     </div>
   </div>
@@ -44,8 +43,9 @@ Hi, I’m Sean, an M.S. Computer Science student at Georgia Tech, on track to gr
     </div>
     <div class="timeline-details">
       <ul>
-        <li>Built internal software to streamline AI-driven risk management workflows, reducing manual review time by 30% and ensuring regulatory compliance</li>
-        <li>Developed an automated model reporting pipeline with a Python, SQL, and Azure AI back end and Angular front end, cutting report generation time from hours to under 5 minutes and standardizing outputs across 100+ models</li>
+        <li>Built an automated model reporting platform with Azure AI back end and Angular front end to streamline AI-driven risk management, cutting report generation time from hours to under 5 minutes and standardizing outputs across 100+ models</li>
+        <li>Developed data ingestion and model validation workflows that dynamically update model reports daily as new datasets and models are added</li>
+        <li>Partnered with risk stakeholders to translate regulatory requirements into internal corporate software, improving model transparency and review efficiency</li>
       </ul>
     </div>
   </div>
